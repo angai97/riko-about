@@ -1,0 +1,30 @@
+body {
+	background-color: bisque;
+	width: 80%;
+	margin: 0 auto;
+}
+
+/* elements */
+header {
+	text-align: center;
+}
+
+header h1 {
+	font-family: Chihaya Jyun;
+	font-size: 80px;
+	line-height: 0.5em;
+}
+
+/* text stylization */
+
+.Raleway {
+	font-family: Raleway;
+}
+
+.subtitle {
+	font-size: 18px;
+}
+
+.emphasis {
+	color: #33E19F;
+}
